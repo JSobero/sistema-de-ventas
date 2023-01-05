@@ -1,0 +1,17 @@
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\bin\Debug\SistemaVentas_V01.exe.config
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\bin\Debug\SistemaVentas_V01.exe
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\bin\Debug\SistemaVentas_V01.pdb
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.csprojAssemblyReference.cache
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmLogin.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.Properties.Resources.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.csproj.GenerateResource.cache
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.exe
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.pdb
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmPrincipal.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmProductos.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmClientes.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmBoletaVenta.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmFiltrarCliente.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmConsultaVentas.resources
+C:\Users\ADVANCE\source\repos\SistemaVentas_V01\SistemaVentas_V01\obj\Debug\SistemaVentas_V01.frmConsultadetalle_venta.resources
